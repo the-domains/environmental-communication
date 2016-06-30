@@ -1,0 +1,28 @@
+name: Environmental Communication
+favicon: null
+layout_spectrum: 0.7227793275378644
+typography_spectrum: 0.7422540893312544
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.939936745679006
+  lightness: 0.0726405659224838
+  saturation: 0.8105987971648574
+  rhythmicContrast: 0.00548345479182899
+purpose: []
