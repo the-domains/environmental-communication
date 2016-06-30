@@ -8,14 +8,14 @@ description: >-
   the study and practice of how individuals, institutions, societies, and
   cultures craft, distribute, receive, understand, and use messages about the
   environment and human interactions with the environment
-datePublished: '2016-06-30T18:24:19.007Z'
-dateModified: '2016-06-30T18:24:17.038Z'
+datePublished: '2016-06-30T18:30:08.229Z'
+dateModified: '2016-06-30T18:29:27.942Z'
 title: ENVIRONMENTAL COMMUNICATION
 author: []
 sourcePath: _posts/2016-06-30-environmental-communication.md
 authors: []
 publisher: null
-starred: true
+starred: false
 url: environmental-communication/index.html
 _type: Article
 
