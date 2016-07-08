@@ -2,6 +2,7 @@ name: Environmental Communication
 favicon: null
 layout_spectrum: 0.15625
 typography_spectrum: 0.59544
+title: Environmental Communication
 cta:
   domain: null
   bucket: null
@@ -21,8 +22,8 @@ color:
     - '#30664c'
     - '#8d5f38'
     - '#259781'
-  brandStrength: 0.939936745679006
-  lightness: 0.0726405659224838
-  saturation: 0.8105987971648574
-  rhythmicContrast: 0.00548345479182899
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
