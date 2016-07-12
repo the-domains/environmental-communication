@@ -4,8 +4,15 @@
         <description><![CDATA[Here and Now]]></description>
         <link>https://thegrid.ai/environmental-communication/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 17:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 17:12:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/environmental-communication/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>THE CHALLENGE</p>]]></description>
+            <link>https://thegrid.ai/environmental-communication/the-challenge/index.html</link>
+            <guid isPermaLink="false">e2c3af43-94e1-4881-9d70-bfa47325d42a</guid>
+            <pubDate>Tue, 12 Jul 2016 17:12:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Fundamental Question</p>]]></description>
