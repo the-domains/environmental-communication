@@ -4,8 +4,22 @@
         <description><![CDATA[Here and Now]]></description>
         <link>https://thegrid.ai/environmental-communication/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 17:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 17:18:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/environmental-communication/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Earth as seen from Saturn</p>]]></description>
+            <link>https://thegrid.ai/environmental-communication/earth-as-seen-from-saturn/index.html</link>
+            <guid isPermaLink="false">ed34065c-5b3f-4062-88d6-b5e4fa111cf0</guid>
+            <pubDate>Tue, 12 Jul 2016 17:18:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Mental Model</p>]]></description>
+            <link>https://thegrid.ai/environmental-communication/mental-model/index.html</link>
+            <guid isPermaLink="false">688fedd5-1105-4dcf-ba38-aa8585fb2cc9</guid>
+            <pubDate>Tue, 12 Jul 2016 17:17:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The observable universe</p>]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/environmental-communication/we-arrived-on-this-planet-was-determined-by-historical-event/index.html</link>
             <guid isPermaLink="false">a34bfd19-4b7b-4633-9247-3127d90a2178</guid>
             <pubDate>Tue, 12 Jul 2016 17:07:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f45cce3-6bbf-4582-bd8b-b6265b5782f0.jpg">]]></description>
-            <link>https://thegrid.ai/environmental-communication/ee4c67e7-25ef-4817-a4de-3ffb12d7fb03/index.html</link>
-            <guid isPermaLink="false">ee4c67e7-25ef-4817-a4de-3ffb12d7fb03</guid>
-            <pubDate>Tue, 12 Jul 2016 17:04:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ENVIRONMENTAL COMMUNICATION]]></title>
-            <description><![CDATA[<article><h1>ENVIRONMENTAL COMMUNICATION</h1><p>the study and practice of how individuals, institutions, societies, and cultures craft, distribute, receive, understand, and use messages about the environment and human interactions with the environment</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75ab45e6-296e-4b69-8c7f-9f1014c7aed9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/environmental-communication/environmental-communication/index.html</link>
-            <guid isPermaLink="false">6c482c66-70e2-4eca-b948-9ee2a057c0d9</guid>
-            <pubDate>Thu, 30 Jun 2016 18:30:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
