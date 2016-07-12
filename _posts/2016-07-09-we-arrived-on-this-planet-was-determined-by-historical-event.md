@@ -5,11 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  When and where we arrived on this planet was determined by historical events
-  and forces over which we had no discernible control, yet are profoundly
-  influenced.
-datePublished: '2016-07-12T17:00:05.779Z'
-dateModified: '2016-07-12T16:58:56.830Z'
+  When, where and under what circumstances we arrived on this planet was
+  determined by historical events and forces over which we had no discernible
+  control, yet profoundly influence our perspectives.
+datePublished: '2016-07-12T17:07:59.865Z'
+dateModified: '2016-07-12T17:07:36.438Z'
 title: ''
 author: []
 sourcePath: >-
@@ -21,7 +21,7 @@ url: we-arrived-on-this-planet-was-determined-by-historical-event/index.html
 _type: Article
 
 ---
-When and where we arrived on this planet was determined by historical events and forces over which we had no discernible control, yet are profoundly influenced.
+When, where and under what circumstances we arrived on this planet was determined by historical events and forces over which we had no discernible control, yet profoundly influence our perspectives.
 
 This influence extends to what we believe to be the 'natural order of things,' meaning our perceived relations to all with which we share the ecosphere.
 
