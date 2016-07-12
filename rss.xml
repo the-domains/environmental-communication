@@ -4,8 +4,15 @@
         <description><![CDATA[Here and Now]]></description>
         <link>http://envirocomm.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 17:56:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2016 17:58:04 GMT</lastBuildDate>
         <atom:link href="http://envirocomm.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff98bef0-d998-4cb3-8079-71e98a77c7c2.jpg">]]></description>
+            <link>http://envirocomm.net/the-point-being-perspective-matters/index.html</link>
+            <guid isPermaLink="false">57dd7873-fbbb-4d9c-9df8-2b249e1f07b5</guid>
+            <pubDate>Tue, 12 Jul 2016 17:56:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Human Lifetime</p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://envirocomm.net/mental-model/index.html</link>
             <guid isPermaLink="false">61b62241-0108-42df-b87c-07daa50aadd0</guid>
             <pubDate>Tue, 12 Jul 2016 17:47:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The Stuff of Life</p>]]></description>
-            <link>http://envirocomm.net/the-stuff-of-life/index.html</link>
-            <guid isPermaLink="false">f8f7971f-25b6-495d-9f57-7db07b44ca7a</guid>
-            <pubDate>Tue, 12 Jul 2016 17:46:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
