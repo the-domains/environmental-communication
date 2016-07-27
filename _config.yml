@@ -1,6 +1,6 @@
-name: '''HERE'' AND ''NOW'''
+name: ENVIRONMENTAL COMMUNICATION
 favicon: null
-layout_spectrum: 0.93159
+layout_spectrum: 0.67461
 typography_spectrum: 0.59544
 title: Exploring Human Relations With Nature
 cta:
@@ -22,8 +22,8 @@ color:
     - '#30664c'
     - '#8d5f38'
     - '#259781'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 0.875
+  lightness: 0.1875
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
